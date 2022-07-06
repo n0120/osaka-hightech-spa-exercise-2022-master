@@ -100,7 +100,7 @@ const PopulationBarPlot = {
       // this.result = values;
       this.populations = values;
       // グラフを縮尺して表示
-      this.populations = this.populations.map(function(item) {
+      this.populations = this.populations.map((item) => {
         return item / 15000;
       }
       );
