@@ -111,7 +111,7 @@ const PopulationBarPlot = {
 const RootComponent = {
   data() {
     return {
-      'api': 'gc7Aq5dppJetPXJYHaIDk7IZEWOuCTioYGiICBvg',
+      'api': '',
     };
   },
   components: {
